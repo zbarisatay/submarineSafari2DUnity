@@ -1,0 +1,11 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+*.apk
+*.aab
+*.zip
+*.exe
+.DS_Store
